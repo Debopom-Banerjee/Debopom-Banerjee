@@ -10,11 +10,11 @@
 
 - 💬 Ask me about **Java, Solidity, Typescript, Blockchain**
 
-- 📫 How to reach me **debopombanerjee752@gmail.com**
+- 📫 reach me at **debopombanerjee752@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFVayfgunM/nk9jYes3X6CJyqUTCpz_3g/view?utm_content=DAFVayfgunM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Hobbies **I love to play Football and Chess**
+- ⚡ **I love to play Football and Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
