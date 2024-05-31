@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debopom-banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="debopom-banerjee" /> </p>
 
-- 🔭 I’m currently working on [SolanaStockBot](https://github.com/Debopom-Banerjee/SolanaStockBot)
+- 🔭 I’m currently building **Unloqen**
 
-- 🌱 I’m currently learning **Next.js, Mantle and DSA**
+- 🌱 I’m currently learning **zk, solana and DSA**
 
 - 💬 Ask me about **Java, Solidity, Typescript, Blockchain**
 
 - 📫 reach me out at **debopombanerjee752@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFVayfgunM/nk9jYes3X6CJyqUTCpz_3g/view?utm_content=DAFVayfgunM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Resume]()
 
 - ⚡ **I love to play Football and Chess**
 
