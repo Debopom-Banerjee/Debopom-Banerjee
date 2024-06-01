@@ -1,6 +1,6 @@
 <h1 align="center">Hello, myself Debopom Banerjee</h1>
 <h3 align="center">A passionate developer from India exploring Blockchain.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.funimada.com%2Fgood-morning%2Fgoodmorning-90.html&psig=AOvVaw0DHK6PFfao1EMZrBeCrlF5&ust=1717363531032000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi3uqmsu4YDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.funimada.com/good-morning/goodmorning-90.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debopom-banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="debopom-banerjee" /> </p>
 
