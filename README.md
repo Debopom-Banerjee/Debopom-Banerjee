@@ -1,6 +1,6 @@
 <h1 align="center">Hello, myself Debopom Banerjee</h1>
 <h3 align="center">A passionate developer from India exploring Blockchain.</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/element_pic/00/16/10/1357ff3dc1def05.png">
+<img align="right" alt="Coding" width="400" src="https://www.funimada.com/assets/images/cards/big/goodmorning-90.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debopom-banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="debopom-banerjee" /> </p>
 
