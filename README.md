@@ -12,8 +12,6 @@
 
 - 📫 reach me out at **debopombanerjee752@gmail.com**
 
-##- 📄 Know about my experiences [Resume]()
-
 - ⚡ **I love to play Football and Chess**
 
 <h3 align="left">Connect with me:</h3>
